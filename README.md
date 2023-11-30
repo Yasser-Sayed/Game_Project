@@ -1,5 +1,5 @@
-# Game_Project
-
+# Game_Project :
 A simple game like mario game.
 
-Technology : HTML, CSS And JS.
+# Technology Used : 
+HTML, CSS And JS.
